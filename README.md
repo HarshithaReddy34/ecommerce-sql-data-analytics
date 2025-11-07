@@ -29,15 +29,7 @@ outOfStock: Boolean indicating stock status
 quantity: Number of units per package
 
 
-**SQL Workflow**
 
-Database and Table Creation
-Data Import 
-Data Exploration
-Count total records
-Identify unique categories
-Check for missing or invalid values
-Compare in-stock vs out-of-stock products
 
 
 **Data Cleaning**
