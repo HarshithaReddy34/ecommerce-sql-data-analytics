@@ -31,8 +31,3 @@ quantity: Number of units per package
 
 
 
-
-**Data Cleaning**
-Remove entries where prices are zero
-Convert pricing from paise to rupees for clarity
-
